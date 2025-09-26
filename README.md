@@ -13,15 +13,15 @@ The descriptive statistics option was used to check for missing values in the da
 # Objectives
 Objective 1: Descriptive statistics for Age Category, Membership Type, and Satisfaction Level. This was achieved using frequency count, mean, and percentages. <br />
 
-Objective 2: Customer Segmentation (Cluster Analysis). This involved the use of the elbow method and K-Means Cluster Analysis. The elbow method was used to obtain the optimal number of clusters that would be used for the K-Means Cluster Analysis. <br />
+Objective 2: Customer Segmentation. This involved the use of the elbow method and K-means cluster analysis. The elbow method was used to determine the optimal number of clusters for the K-Means Cluster Analysis. <br />
 
-Objective 3: Relationship Between Demographics and Spending (Chi-Square Test for Association). This was achieved using a chi-square test for independence to examine if there is a significant relationship between gender and membership type. <br />
+Objective 3: Relationship Between Gender and Membership Type. This was achieved using a chi-square test for independence to examine if there is a significant relationship between gender and membership type. <br />
 
-Objective 4: Analysis of Variance (ANOVA) between the variables total spent and age category. <br />
+Objective 4: Relationship Between Demographics and Spending between the variables total spent and age category. This was achieved using a one-way analysis of variance test. <br />
 
-Objective 5: Customer Satisfaction Analysis (Chi-Square Test for Association). This involved using a chi-square test for independence to examine if there is a significant relationship between satisfaction level and membership type. <br />
+Objective 5: Customer Satisfaction Analysis. This involved using a chi-square test for independence to examine if there is a significant relationship between satisfaction level and membership type. <br />
 
-Objective 6: Effect of Discounts on Purchase Behaviour (t-test ). This was achieved using a t-test to compare the average total spent between customers who received a discount versus those who did not. <br />
+Objective 6: Effect of Discounts on Purchase Behaviour. This was achieved using an independent samples t-test to compare the average total spent between customers who received a discount versus those who did not. <br />
 
 # Insights
 Objective 1: From the descriptive statistics, of the 350 samples, 63.7% of the customers were in the age range 31-39, and there was an equal distribution of gender (50%). Bronze, silver, and gold membership subscribers were split evenly(33.4%), (33.4%) and (33.4%) respectively. The majority of the customers were satisfied (36.3%) <br />
