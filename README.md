@@ -24,7 +24,21 @@ Objective 5: Customer Satisfaction Analysis. This involved using a chi-square te
 Objective 6: Effect of Discounts on Purchase Behaviour. This was achieved using an independent samples t-test to compare the average total spent between customers who received a discount versus those who did not. <br />
 
 # Insights
-Objective 1: From the descriptive statistics, of the 350 samples, 63.7% of the customers were in the age range 31-39, and there was an equal distribution of gender (50%). Bronze, silver, and gold membership subscribers were split evenly(33.4%), (33.4%) and (33.4%) respectively. The majority of the customers were satisfied (36.3%) <br />
+Objective 1: From the descriptive statistics, of the 350 samples, 63.7% of the customers were in the age range 31-39, 19.7% were between 20-29, and 16.6% were between 40-49. <br />
+
+<img width="728" height="360" alt="Age Category Rplot" src="https://github.com/user-attachments/assets/cbb59447-1e56-47ef-a8e2-a3283e7cfbef" /> <br />
+
+
+There was an equal distribution of gender (50%). <br/ >
+
+<img width="728" height="360" alt="Gender Rplot" src="https://github.com/user-attachments/assets/13675f87-5141-42e0-b874-ba0ebdb7ee10" /> <br />
+
+
+Bronze, silver, and gold membership subscribers were split evenly(33.4%), (33.4%) and (33.4%) respectively. The majority of the customers were satisfied (36.3%) <br />
+
+<img width="728" height="360" alt="Membership Type Rplot" src="https://github.com/user-attachments/assets/93e31413-4e19-4b92-80d4-63a914d831c2" />
+
+
 
 Objective 2: Three customer clusters were identified based on age, items purchased, and total spending:
 * Cluster 1: Slightly older, moderate spenders 
@@ -32,10 +46,25 @@ Objective 2: Three customer clusters were identified based on age, items purchas
 * Cluster 3: Older low-spenders
 Younger customers tend to spend more; therefore, targeted promotions should focus on this high-spending group. For older customers (Cluster 2), marketing strategies should be developed to encourage more spending and larger purchases. accordingly​ <br />
 
+<img width="728" height="360" alt="Clustering Rplot" src="https://github.com/user-attachments/assets/502366b9-0fd4-4a9f-a48a-a9226fae7685" /> <br />
+
+
 Objective 3: A significant relationship was found between gender and membership type. Female customers are more likely to have Bronze memberships, while males are more likely to have Gold memberships. The company should focus on designing gender-specific membership upgrade strategies <br />
+
+<img width="728" height="360" alt="Gender by Membership Type Rplot" src="https://github.com/user-attachments/assets/c74d76ac-b710-47ad-ba39-40397c82617c" /> <br/ >
+
 
 Objective 4: Younger customers (20-29) tend to spend more than older ones. Marketing strategies such as loyalty programs and exclusive discounts could help retain these high-spending younger customers, while additional incentives may be needed to encourage spending in the older groups. <br />
 
+<img width="728" height="360" alt="Total Spent by Age Category Rplot" src="https://github.com/user-attachments/assets/37d0ef5b-2dc3-485a-b9f7-d9baa8675e12" /> <br />
+
+
 Objective 5: Gold members are more likely to report satisfaction, while Bronze and Silver members report lower satisfaction levels. The company should consider enhancing the experience for Bronze and Silver members to improve satisfaction and retention. <br />
 
-Objective 6: There was no significant difference in the total amount spent for Customers who received a discount ($821.40) and those who did not receive a discount ($868.99). This indicates that discounts do not affect the spending habits of consumers.
+<img width="728" height="360" alt="Membership Type by Satisfaction Rplot" src="https://github.com/user-attachments/assets/8df08629-23a4-43ca-b598-0b80001051b6" /> <br/ >
+
+
+Objective 6: There was no significant difference in the total amount spent for Customers who received a discount ($821.40) and those who did not receive a discount ($868.99). This indicates that discounts do not affect the spending habits of consumers. <br />
+
+<img width="728" height="360" alt="Total Spent by Discount Applied Rplot" src="https://github.com/user-attachments/assets/39001f2f-32ae-4bc5-9fe9-543013befb84" />
+
