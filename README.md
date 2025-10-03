@@ -26,7 +26,8 @@ Objective 6: Effect of Discounts on Purchase Behaviour. This was achieved using 
 # Insights
 Objective 1: From the descriptive statistics, of the 350 samples, 63.7% of the customers were in the age range 31-39, 19.7% were between 20-29, and 16.6% were between 40-49. <br />
 
-<img width="728" height="500" alt="Age Category Rplot" src="https://github.com/user-attachments/assets/a2605ff8-8dfc-4a51-a24a-f215ecf55c23" />
+<img width="728" height="500" alt="Age Category Rplot" src="https://github.com/user-attachments/assets/e5d31465-1f7d-46e2-b089-7584c1a07ee8" />
+
 
 
 <br />
@@ -34,20 +35,23 @@ Objective 1: From the descriptive statistics, of the 350 samples, 63.7% of the c
 
 There was an equal distribution of gender (50%). <br/ >
 
-<img width="728" height="500" alt="Gender Rplot" src="https://github.com/user-attachments/assets/ce496b3c-9eda-4e7e-884d-6e0564194633" />
+<img width="728" height="500" alt="Gender Rplot" src="https://github.com/user-attachments/assets/d52b78ea-2407-44aa-98d6-abf1f465cc65" />
+
 
 <br />
 
 
 Bronze, silver, and gold membership subscribers were split evenly(33.4%), (33.4%) and (33.4%) respectively.  <br />
 
-<img width="728" height="500" alt="Membership Type Rplot" src="https://github.com/user-attachments/assets/088b9e6e-9fcc-4fb2-98c0-230fe16e7658" />
+<img width="728" height="500" alt="Membership Type Rplot" src="https://github.com/user-attachments/assets/ff03ad3b-00dc-43cd-bb30-3fd8e548292d" />
+
 
  
 <br />
 
 The majority of the customers were satisfied (36.3%) <br />
-<img width="728" height="500" alt="Satisfaction Level Rplot" src="https://github.com/user-attachments/assets/053adf85-2dc3-4423-a1dd-e4d3f6203beb" /> <br />
+<img width="728" height="500" alt="Satisfaction Level Rplot" src="https://github.com/user-attachments/assets/df388ef6-2ff2-4ce9-b7b8-0e30ff49717e" />
+ <br />
 
 
 
@@ -63,24 +67,28 @@ Younger customers tend to spend more; therefore, targeted promotions should focu
 
 Objective 3: A significant relationship was found between gender and membership type. Female customers are more likely to have Bronze memberships, while males are more likely to have Gold memberships. The company should focus on designing gender-specific membership upgrade strategies <br />
 
-<img width="728" height="500" alt="Gender by Membership Type Rplot" src="https://github.com/user-attachments/assets/3c755d3a-c9a2-4dfe-a8b9-dfd38bb4129d" />
+<img width="728" height="500" alt="Gender by Membership Type Rplot" src="https://github.com/user-attachments/assets/77ee6ea2-3875-428a-8b2b-577012abb558" />
+
  <br/ >
 
 
 Objective 4: Younger customers (20-29) tend to spend more than older ones. Marketing strategies such as loyalty programs and exclusive discounts could help retain these high-spending younger customers, while additional incentives may be needed to encourage spending in the older groups. <br />
 
-<img width="728" height="500" alt="Total Spent by Age Category Rplot" src="https://github.com/user-attachments/assets/927a15a4-2c32-4737-ad6a-3a64e7578966" />
+<img width="728" height="500" alt="Total Spent by Age Category Rplot" src="https://github.com/user-attachments/assets/5f7bf32c-a6e0-44e2-922c-4c3624fa7519" />
+
  <br />
 
 
 Objective 5: Gold members are more likely to report satisfaction, while Bronze and Silver members report lower satisfaction levels. The company should consider enhancing the experience for Bronze and Silver members to improve satisfaction and retention. <br />
 
-<img width="728" height="500" alt="Membership Type by Satisfaction Rplot" src="https://github.com/user-attachments/assets/1480a818-baf4-4b3b-90fd-ba75e0b94368" />
+<img width="728" height="500" alt="Membership Type by Satisfaction Rplot" src="https://github.com/user-attachments/assets/3de9aacb-d4ad-4e3a-b175-1144d49acf88" />
+
  <br/ >
 
 
 Objective 6: There was no significant difference in the total amount spent for Customers who received a discount ($821.40) and those who did not receive a discount ($868.99). This indicates that discounts do not affect the spending habits of consumers. <br />
 
-<img width="728" height="500" alt="Total Spent by Discount Applied Rplot" src="https://github.com/user-attachments/assets/3f1f33b0-5e01-4e6c-8659-c50d666f03b7" />
+<img width="728" height="500" alt="Total Spent by Discount Applied Rplot" src="https://github.com/user-attachments/assets/d9f9bed1-bbb6-420b-9fca-2b5982f82511" />
+
 
 
