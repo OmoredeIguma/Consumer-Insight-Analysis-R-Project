@@ -37,11 +37,14 @@ There was an equal distribution of gender (50%). <br/ >
 <br />
 
 
-Bronze, silver, and gold membership subscribers were split evenly(33.4%), (33.4%) and (33.4%) respectively. The majority of the customers were satisfied (36.3%) <br />
+Bronze, silver, and gold membership subscribers were split evenly(33.4%), (33.4%) and (33.4%) respectively.  <br />
 
-<img width="728" height="500" alt="memRplot" src="https://github.com/user-attachments/assets/920f89b0-e76a-4c83-9b2f-f73514dd9cdd" /> 
+<img width="728" height="500" alt="Rplot01" src="https://github.com/user-attachments/assets/0381f711-5935-4b6b-819a-11f6f79162fb" />
+ 
 <br />
 
+The majority of the customers were satisfied (36.3%) <br />
+<img width="728" height="500" alt="Rplot02" src="https://github.com/user-attachments/assets/17395cf8-3f95-4528-b9a6-e674d388da35" />
 
 
 
