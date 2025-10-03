@@ -39,7 +39,7 @@ There was an equal distribution of gender (50%). <br/ >
 
 Bronze, silver, and gold membership subscribers were split evenly(33.4%), (33.4%) and (33.4%) respectively. The majority of the customers were satisfied (36.3%) <br />
 
-<img width="728" height="460" alt="memRplot" src="https://github.com/user-attachments/assets/920f89b0-e76a-4c83-9b2f-f73514dd9cdd" /> 
+<img width="728" height="500" alt="memRplot" src="https://github.com/user-attachments/assets/920f89b0-e76a-4c83-9b2f-f73514dd9cdd" /> 
 <br />
 
 
@@ -51,7 +51,7 @@ Objective 2: Three customer clusters were identified based on age, items purchas
 * Cluster 3: Older low-spenders
 Younger customers tend to spend more; therefore, targeted promotions should focus on this high-spending group. For older customers (Cluster 2), marketing strategies should be developed to encourage more spending and larger purchases. accordingly​ <br />
 
-<img width="728" height="400" alt="Clustering Rplot" src="https://github.com/user-attachments/assets/502366b9-0fd4-4a9f-a48a-a9226fae7685" /> <br />
+<img width="728" height="360" alt="Clustering Rplot" src="https://github.com/user-attachments/assets/502366b9-0fd4-4a9f-a48a-a9226fae7685" /> <br />
 
 
 Objective 3: A significant relationship was found between gender and membership type. Female customers are more likely to have Bronze memberships, while males are more likely to have Gold memberships. The company should focus on designing gender-specific membership upgrade strategies <br />
