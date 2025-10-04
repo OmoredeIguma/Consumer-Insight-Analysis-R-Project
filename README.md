@@ -43,7 +43,8 @@ There was an equal distribution of gender (50%). <br/ >
 
 Bronze, silver, and gold membership subscribers were split evenly(33.4%), (33.4%) and (33.4%) respectively.  <br />
 
-<img width="728" height="500" alt="Membership Type Rplot" src="https://github.com/user-attachments/assets/ff03ad3b-00dc-43cd-bb30-3fd8e548292d" />
+<img width="728" height="500" alt="Membership Type Rplot" src="https://github.com/user-attachments/assets/cd3543d5-0c9f-4c40-8120-6034959103ce" />
+
 
 
  
@@ -67,7 +68,8 @@ Younger customers tend to spend more; therefore, targeted promotions should focu
 
 Objective 3: A significant relationship was found between gender and membership type. Female customers are more likely to have Bronze memberships, while males are more likely to have Gold memberships. The company should focus on designing gender-specific membership upgrade strategies <br />
 
-<img width="728" height="500" alt="Gender by Membership Type Rplot" src="https://github.com/user-attachments/assets/77ee6ea2-3875-428a-8b2b-577012abb558" />
+<img width="728" height="500" alt="Gender by Membership Type Rplot" src="https://github.com/user-attachments/assets/0df862a3-83a4-4586-86c4-3e27e2a5a44b" />
+
 
  <br/ >
 
@@ -81,7 +83,8 @@ Objective 4: Younger customers (20-29) tend to spend more than older ones. Marke
 
 Objective 5: Gold members are more likely to report satisfaction, while Bronze and Silver members report lower satisfaction levels. The company should consider enhancing the experience for Bronze and Silver members to improve satisfaction and retention. <br />
 
-<img width="728" height="500" alt="Membership Type by Satisfaction Rplot" src="https://github.com/user-attachments/assets/3de9aacb-d4ad-4e3a-b175-1144d49acf88" />
+<img width="728" height="500" alt="Membership Type by Satisfaction Rplot" src="https://github.com/user-attachments/assets/f1edf339-f77a-43d8-b151-734c479f59f8" />
+
 
  <br/ >
 
