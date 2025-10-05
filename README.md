@@ -2,7 +2,9 @@
 # Overview
 This project explores the E-commerce Customer Behaviour Dataset provided on [Kaggle by Laksika Tharmalingam](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset). This dataset provides a comprehensive view of customer behaviour within an e-commerce platform. Each entry in the dataset corresponds to a unique customer, offering a detailed breakdown of their interactions and transactions. The information is crafted to facilitate a nuanced analysis of customer preferences, engagement patterns, and satisfaction levels, enabling businesses to make data-driven decisions that enhance the customer experience. <br />
 
-This repo contains the results from the analysis with a quick and easily digestible summary for non-technical audiences. A more detailed report with the same visualisations here and more, which is intended for technical audiences, which goes in-depth into the data cleaning process, explanation of the R code used for the generation of the results can be found [Here](https://omoredeiguma.github.io/Web-Hosting-R-E-Commerce.github.io/)
+This repo contains the results from the analysis with a quick and easily digestible summary for non-technical audiences. A more detailed report with the same visualisations here and more, which is intended for technical audiences, which goes in-depth into the data cleaning process, explanation of the R code used for the generation of the results can be found [Here](https://omoredeiguma.github.io/Web-Hosting-R-E-Commerce.github.io/) <br />
+
+The R script titled "Consumer Insight Analysis" can be found above.
 
 Note: This dataset was synthetically generated for illustrative purposes, and any resemblance to real individuals or scenarios is coincidental. <br />
 
