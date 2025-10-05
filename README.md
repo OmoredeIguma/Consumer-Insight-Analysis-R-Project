@@ -26,33 +26,20 @@ Objective 6: Effect of Discounts on Purchase Behaviour. This was achieved using 
 # Insights
 Objective 1: From the descriptive statistics, of the 350 samples, 63.7% of the customers were in the age range 31-39, 19.7% were between 20-29, and 16.6% were between 40-49. <br />
 
-<img width="728" height="500" alt="Age Category Rplot" src="https://github.com/user-attachments/assets/e5d31465-1f7d-46e2-b089-7584c1a07ee8" />
-
-
-
-<br />
+<img width="728" height="500" alt="Age Category Rplot" src="https://github.com/user-attachments/assets/5b3a8474-e2ac-461f-a8ed-31537cb2237a" /> <br />
 
 
 There was an equal distribution of gender (50%). <br/ >
 
-<img width="728" height="500" alt="Gender Rplot" src="https://github.com/user-attachments/assets/d52b78ea-2407-44aa-98d6-abf1f465cc65" />
-
-
-<br />
+<img width="728" height="500" alt="Gender Rplot" src="https://github.com/user-attachments/assets/bace699d-af5f-4707-b8bd-64767e85f6eb" /><br />
 
 
 Bronze, silver, and gold membership subscribers were split evenly(33.4%), (33.4%) and (33.4%) respectively.  <br />
 
-<img width="728" height="500" alt="Membership Type Rplot" src="https://github.com/user-attachments/assets/cd3543d5-0c9f-4c40-8120-6034959103ce" />
-
-
-
- 
-<br />
+<img width="728" height="500" alt="Membership Type Rplot" src="https://github.com/user-attachments/assets/2fd3b04a-92ca-4053-8eda-3524403037c8" /> <br />
 
 The majority of the customers were satisfied (36.3%) <br />
-<img width="728" height="500" alt="Satisfaction Level Rplot" src="https://github.com/user-attachments/assets/df388ef6-2ff2-4ce9-b7b8-0e30ff49717e" />
- <br />
+<img width="728" height="500" alt="Satisfaction Level Rplot" src="https://github.com/user-attachments/assets/e9a075fa-9e04-401b-916d-551d23f1778b" /> <br />
 
 
 
