@@ -55,10 +55,7 @@ Younger customers tend to spend more; therefore, targeted promotions should focu
 
 Objective 3: A significant relationship was found between gender and membership type. Female customers are more likely to have Bronze memberships, while males are more likely to have Gold memberships. The company should focus on designing gender-specific membership upgrade strategies <br />
 
-<img width="728" height="500" alt="Gender by Membership Type Rplot" src="https://github.com/user-attachments/assets/0df862a3-83a4-4586-86c4-3e27e2a5a44b" />
-
-
- <br/ >
+<img width="728" height="500" alt="Gender by Membership Type Rplot" src="https://github.com/user-attachments/assets/0df862a3-83a4-4586-86c4-3e27e2a5a44b" /> <br/ >
 
 
 Objective 4: Younger customers (20-29) tend to spend more than older ones. Marketing strategies such as loyalty programs and exclusive discounts could help retain these high-spending younger customers, while additional incentives may be needed to encourage spending in the older groups. <br />
@@ -70,10 +67,7 @@ Objective 4: Younger customers (20-29) tend to spend more than older ones. Marke
 
 Objective 5: Gold members are more likely to report satisfaction, while Bronze and Silver members report lower satisfaction levels. The company should consider enhancing the experience for Bronze and Silver members to improve satisfaction and retention. <br />
 
-<img width="728" height="500" alt="Membership Type by Satisfaction Rplot" src="https://github.com/user-attachments/assets/f1edf339-f77a-43d8-b151-734c479f59f8" />
-
-
- <br/ >
+<img width="728" height="500" alt="Membership Type by Satisfaction Rplot" src="https://github.com/user-attachments/assets/f1edf339-f77a-43d8-b151-734c479f59f8" /> <br/ >
 
 
 Objective 6: There was no significant difference in the total amount spent for Customers who received a discount ($821.40) and those who did not receive a discount ($868.99). This indicates that discounts do not affect the spending habits of consumers. <br />
