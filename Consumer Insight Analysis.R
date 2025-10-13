@@ -316,16 +316,8 @@ anova_descriptive <- df %>%
   group_by(age_category) %>%
   summarise(n = n(),
             Mean = round(mean(total_spend), 2),
-            Standard_Deviation = round(sd(total_spend), 2))
-
-
-
-anova_descriptive <- anova_descriptive %>%
-  mutate(Variance = round(case_when(
-    Standard_Deviation == 378.66 ~ sqrt(378.66),
-    Standard_Deviation == 338.43 ~ sqrt(338.43),
-    Standard_Deviation == 15.28 ~ sqrt(15.28)
-  ), 2))
+            Standard_Deviation = round(sd(total_spend), 2),
+            Variance = round(sqrt(Standard_Deviation),2))
 
 
 print(anova_descriptive)
@@ -457,17 +449,9 @@ t_test_descriptive <- df %>%
   summarise(n = n(),
             Mean = round(mean(total_spend_transformed), 2),
             Standard_Deviation =
-              round(sd(total_spend_transformed), 2))
+              round(sd(total_spend_transformed), 2),
+            Variance = round(sqrt(Standard_Deviation),2))
 
-
-
-t_test_descriptive <- t_test_descriptive %>%
-                                            mutate(Variance = case_when(
-                                            Standard_Deviation == 461.18 ~ 
-                                              round(sqrt(461.18), 2),
-                                            Standard_Deviation == 213.59 ~ 
-                                              round(sqrt(213.59), 2)
-                                            ))
 
 
 print(t_test_descriptive)
