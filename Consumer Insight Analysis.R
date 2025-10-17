@@ -382,12 +382,13 @@ print(post_hoc)
 
 
 # Visual representation of the anova result
-box_plot_visual <- boxplot(df$total_spend ~ df$age_category,
-                           main = "Total Spend per Age Category",
-                           xlab = "Age Category",
-                           ylab = "Avg.Total Spend")
-
-
+ggplot(df, aes(age_category,total_spend, fill = age_category)) +
+  geom_boxplot() +
+  theme_minimal() +
+  labs(title = "Average Amount Spent by Age Category", 
+       fill = "Age Category") +
+  xlab("Age Category") +
+  ylab("Average Amount Spent")
 
 
 ###### Ch-Square Test for Independence (Membership Type vs Satisfaction Level) ######
@@ -497,7 +498,13 @@ print(t_test_effect)
 
 
 # Visualisation
-boxplot(df$total_spend_transformed ~ df$discount_applied,
-        main = "Total Spend by Discount Applied",
-        xlab = "Discount Applied",
-        ylab = "Avg.Total Spend")
+df$discount_applied <- as.factor(df$discount_applied)
+
+ggplot(df, aes(discount_applied, total_spend_transformed, 
+               fill = discount_applied)) +
+  geom_boxplot() +
+  theme_minimal() +
+  labs(title = "Avgerage Amount Spent by Discount Applied", 
+       fill = "Discount Applied?") +
+  xlab("Discount Applied?") +
+  ylab("Avgerage Amount Spent")
