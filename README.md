@@ -62,7 +62,8 @@ Objective 3: A significant relationship was found between gender and membership 
 
 Objective 4: Younger customers (20-29) tend to spend more than older ones. Marketing strategies such as loyalty programs and exclusive discounts could help retain these high-spending younger customers, while additional incentives may be needed to encourage spending in the older groups. <br />
 
-<img width="728" height="500" alt="Total Spent by Age Category Rplot" src="https://github.com/user-attachments/assets/5f7bf32c-a6e0-44e2-922c-4c3624fa7519" />
+<img width="728" height="500" alt="Total Spent by Age Category Rplot" src="https://github.com/user-attachments/assets/ed633359-1571-4169-ab1f-cd7b83ee156c" />
+
 
  <br />
 
@@ -74,7 +75,8 @@ Objective 5: Gold members are more likely to report satisfaction, while Bronze a
 
 Objective 6: There was no significant difference in the total amount spent for Customers who received a discount ($821.40) and those who did not receive a discount ($868.99). This indicates that discounts do not affect the spending habits of consumers. <br />
 
-<img width="728" height="500" alt="Total Spent by Discount Applied Rplot" src="https://github.com/user-attachments/assets/4891bb3f-13c7-48e4-9a89-d5dcf2eaa127" />
+<img width="728" height="500" alt="Total Spent by Discount Applied Rplot" src="https://github.com/user-attachments/assets/fed8665c-766a-4dba-9717-f4217be90b46" />
+
 
 
 
